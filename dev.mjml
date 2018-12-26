@@ -3,10 +3,10 @@
 
   <mj-head>
     <!-- This tag allows you to set the title of an MJML document -->
-    <mj-title>Comfort Zone Newsletter #341</mj-title>
+    <mj-title>Savvy Home Newsletter #012</mj-title>
 
     <!-- This tag allows you to set the preview that will be displayed in the inbox of the recipient. -->
-    <mj-preview>Comfort Zone Newsletter #341</mj-preview>
+    <mj-preview>Savvy Home Newsletter #012</mj-preview>
 
     <!-- This tag allows you to import fonts if used in your MJML document -->
     <mj-font name="Raleway" href="https://fonts.googleapis.com/css?family=Raleway:400,500,700" />
@@ -19,10 +19,20 @@
 
   <mj-body background-color="#ffffff">
 
-    <mj-section>
+    <mj-raw>
+      <!-- hero -->
+    </mj-raw>
+    <mj-section background-color="#ffffff" padding="60px 0px 20px 0px">
       <mj-column>
-
+          <mj-image src="https://i.postimg.cc/x8svJyFs/logo.png" alt="SAVVY HOME logo" width="300px"/>
       </mj-column>
+    </mj-section>
+
+    <mj-raw>
+      <!-- line -->
+    </mj-raw>
+    <mj-section background-color="#ffffff" padding="5px 20px 0px 20px">
+      <mj-column border-top="1px solid #E6E6E6" ></mj-column>
     </mj-section>
 
   </mj-body>
