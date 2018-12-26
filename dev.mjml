@@ -22,7 +22,7 @@
     <mj-raw>
       <!-- hero -->
     </mj-raw>
-    <mj-section background-color="#ffffff" padding="60px 0px 20px 0px">
+    <mj-section background-color="#ffffff" padding="50px 0px 20px 0px">
       <mj-column>
           <mj-image src="https://i.postimg.cc/x8svJyFs/logo.png" alt="SAVVY HOME logo" width="300px"/>
       </mj-column>
@@ -34,6 +34,82 @@
     <mj-section background-color="#ffffff" padding="5px 20px 0px 20px">
       <mj-column border-top="1px solid #E6E6E6" ></mj-column>
     </mj-section>
+
+    <mj-raw>
+      <!-- article 1 -->
+    </mj-raw>
+    <mj-section background-color="#ffffff" padding="50px 20px 10px 20px">
+      <mj-column>
+        <mj-image src="https://i.postimg.cc/SNWtZjtD/article1.jpg" />
+        <mj-text font-family="'Raleway', sans-serif" font-size="22px" font-weight="500" text-transform="uppercase" align="center" padding="35px 0px 30px 0px">
+          Best Match Detected: Wood & White
+        </mj-text>
+        <mj-text font-family="'Raleway', sans-serif" font-size="14px" line-height="22px">
+          Duis autem vel consetetur eum iriure dolor in hendrerit inulla vulputate velit esse molestie at vero consequat, vel illum dolore lorem ipsum dolor sit amet vultatup eu feugiat nulla facilisis accus.
+        </mj-text>
+        <mj-button font-family="'Raleway', sans-serif" font-weight="500" text-transform="uppercase" color="black" background-color="#ffffff" border="1px solid black" padding="30px 0px 30px 0px" href="http://savvyhomeblog.com/">
+          Continue Reading
+        </mj-button>
+      </mj-column>
+    </mj-section>
+
+    <mj-raw>
+      <!-- short line -->
+    </mj-raw>
+    <mj-section background-color="#ffffff">
+      <mj-column border="1px solid black" width="20%"></mj-column>
+    </mj-section>
+
+    <mj-raw>
+      <!-- article 2 -->
+    </mj-raw>
+    <mj-section background-color="#ffffff" padding="50px 20px 10px 20px">
+      <mj-column>
+        <mj-image src="https://i.postimg.cc/pLRc3xwx/article2.jpg" />
+        <mj-text font-family="'Raleway', sans-serif" font-size="22px" font-weight="500" text-transform="uppercase" align="center" padding="35px 0px 30px 0px">
+          Minimal Wall Decoration
+        </mj-text>
+        <mj-text font-family="'Raleway', sans-serif" font-size="14px" line-height="22px">
+          Stet clita kasd gubergren, no sea lorem ipsum dolor sit amet vultatup takimata sanctus est laboreta dolore magna aliquyam erat and lorem sed diam ipsum dolor sit amet sadipscing elitr nonumy.
+        </mj-text>
+        <mj-button font-family="'Raleway', sans-serif" font-weight="500" text-transform="uppercase" color="black" background-color="#ffffff" border="1px solid black" padding="30px 0px 30px 0px" href="http://savvyhomeblog.com/">
+          Continue Reading
+        </mj-button>
+      </mj-column>
+    </mj-section>
+
+    <mj-raw>
+      <!-- short line -->
+    </mj-raw>
+    <mj-section background-color="#ffffff">
+      <mj-column border="1px solid black" width="20%"></mj-column>
+    </mj-section>
+
+
+    <mj-raw>
+      <!-- article 3 -->
+    </mj-raw>
+    <mj-section background-color="#ffffff" padding="50px 20px 10px 20px">
+      <mj-column>
+        <mj-image src="https://i.postimg.cc/T30N6Fxb/article3.jpg" />
+        <mj-text font-family="'Raleway', sans-serif" font-size="22px" font-weight="500" text-transform="uppercase" align="center" padding="35px 0px 30px 0px">
+          Comfort Zone at Home
+        </mj-text>
+        <mj-text font-family="'Raleway', sans-serif" font-size="14px" line-height="22px">
+          Duis autem vel consetetur eum iriure dolor in hendrerit inulla vulputate velit esse molestie at vero consequat, vel illum dolore lorem ipsum dolor sit amet vultatup eu feugiat nulla facilisis accus.
+        </mj-text>
+        <mj-button font-family="'Raleway', sans-serif" font-weight="500" text-transform="uppercase" color="black" background-color="#ffffff" border="1px solid black" padding="30px 0px 30px 0px" href="http://savvyhomeblog.com/">
+          Continue Reading
+        </mj-button>
+      </mj-column>
+    </mj-section>
+
+
+
+
+
+
+
 
   </mj-body>
 
