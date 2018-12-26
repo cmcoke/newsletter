@@ -104,12 +104,44 @@
       </mj-column>
     </mj-section>
 
+    <mj-raw>
+      <!-- line -->
+    </mj-raw>
+    <mj-section background-color="#ffffff">
+      <mj-column border="1px solid black"></mj-column>
+    </mj-section>
 
+    <mj-raw>
+      <!-- let's be friends -->
+    </mj-raw>
+    <mj-section background-color="#ffffff" padding="30px 0px 15px 0px">
+      <mj-column>
+        <mj-text font-family="'Raleway', sans-serif" font-size="17px" align="center">
+          LET'S BE FRIENDS
+        </mj-text>
+      </mj-column>
+    </mj-section>
 
+  <mj-raw>
+    <!-- social media -->
+  </mj-raw>
+  <mj-section background-color="#ffffff" padding="0px 20px 30px 20px">
+    <mj-column>
+      <mj-social font-size="15px" icon-size="30px" mode="horizontal" align="center">
+        <mj-social-element href="#" src="https://i.postimg.cc/k5bmg7gZ/facebook.png" padding="0px 12px 0 12px"></mj-social-element>
+        <mj-social-element href="#" src="https://i.postimg.cc/B6fG8R8v/instagram.png" padding="0px 12px 0 12px"></mj-social-element>
+        <mj-social-element href="#" src="https://i.postimg.cc/d1RcGndj/twitter.png" padding="0px 12px 0 12px"></mj-social-element>
+        <mj-social-element href="#" src="https://i.postimg.cc/7hx897n8/pinterest.png" padding="0px 12px 0 12px"></mj-social-element>
+      </mj-social>
+    </mj-column>
+  </mj-section>
 
-
-
-
+  <mj-raw>
+    <!-- line -->
+  </mj-raw>
+  <mj-section background-color="#ffffff">
+    <mj-column border="1px solid black"></mj-column>
+  </mj-section>
 
   </mj-body>
 
